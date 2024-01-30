@@ -1,1 +1,2 @@
-# Aplicaci-n-de-ayuda-m-dica-usando-GPT-4V
+# Medical-Help-App-using-GPT-4V
+Medical Help App using GPT-4V
